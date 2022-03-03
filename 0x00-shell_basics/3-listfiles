@@ -1,0 +1,4 @@
+#!/bin/bash 
+ ls -l
+
+ 3-listfiles: Display current directory contents in a long format
